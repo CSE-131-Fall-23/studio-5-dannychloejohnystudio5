@@ -125,5 +125,5 @@ public class Methods {
 		return arraySum(array)/(double)array.length;
 	}
 
-	
+	//
 }
